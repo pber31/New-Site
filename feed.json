@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nouveau site de famille",
+    "description": "",
+    "home_page_url": "https://pber31.github.io/New-Site",
+    "feed_url": "https://pber31.github.io/New-Site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Philippe"
+    },
+    "items": [
+    ]
+}
