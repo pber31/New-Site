@@ -1,12 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Nouveau site de famille</title>
-    <link href="https://pber31.github.io/New-Site/feed.xml" rel="self" />
-    <link href="https://pber31.github.io/New-Site" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <title>Test1</title>
+    <link href="https://pber31.github.io/feed.xml" rel="self" />
+    <link href="https://pber31.github.io" />
+    <updated>2026-10-13T18:24:57+02:00</updated>
     <author>
         <name>Philippe</name>
     </author>
-    <id>https://pber31.github.io/New-Site</id>
+    <id>https://pber31.github.io</id>
 
+    <entry>
+        <title>Post New</title>
+        <author>
+            <name>Philippe</name>
+        </author>
+        <link href="https://pber31.github.io/post-new/"/>
+        <id>https://pber31.github.io/post-new/</id>
+            <category term="Mer"/>
+
+        <updated>2026-10-13T18:16:41+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0067.jpeg" data-size="4032x3024"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0067-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0069.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0069-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0070.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0070-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0076.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0076-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0080.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0080-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0082.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0082-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0084.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0084-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0086.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0086-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0087.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0087-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0088.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0088-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/3/gallery/IMG_0093.jpeg" data-size="4032x3024"><img loading="lazy" src="https://pber31.github.io/media/posts/3/gallery/IMG_0093-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Page1 (copy)</title>
+        <author>
+            <name>Philippe</name>
+        </author>
+        <link href="https://pber31.github.io/page1-2/"/>
+        <id>https://pber31.github.io/page1-2/</id>
+            <category term="Mer"/>
+
+        <updated>2026-10-13T18:14:03+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0067-2.jpeg" data-size="4032x3024"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0067-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0069-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0069-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0070-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0070-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0076-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0076-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0080-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0080-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0082-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0082-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0084-2.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0084-2-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0086.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0086-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0087.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0087-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0088.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0088-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/2/gallery/IMG_0093.jpeg" data-size="4032x3024"><img loading="lazy" src="https://pber31.github.io/media/posts/2/gallery/IMG_0093-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Page1</title>
+        <author>
+            <name>Philippe</name>
+        </author>
+        <link href="https://pber31.github.io/page1/"/>
+        <id>https://pber31.github.io/page1/</id>
+
+        <updated>2026-10-13T18:08:40+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery" data-translation="Add images" data-columns="3" data-is-empty="false">
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0067.jpeg" data-size="4032x3024"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0067-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0069.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0069-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0070.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0070-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0076.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0076-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0080.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0080-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0082.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0082-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://pber31.github.io/media/posts/1/gallery/IMG_0084.jpeg" data-size="5712x4284"><img loading="lazy" src="https://pber31.github.io/media/posts/1/gallery/IMG_0084-thumbnail.jpeg" alt="" width="720" height="540"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
 </feed>

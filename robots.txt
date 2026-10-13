@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://pber31.github.io/New-Site/sitemap.xml
+Sitemap: https://pber31.github.io/sitemap.xml
