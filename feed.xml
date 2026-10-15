@@ -3,12 +3,37 @@
     <title>Famille</title>
     <link href="https://pber31.github.io/New-Site/feed.xml" rel="self" />
     <link href="https://pber31.github.io/New-Site" />
-    <updated>2026-10-15T23:23:02+02:00</updated>
+    <updated>2026-10-15T23:47:35+02:00</updated>
     <author>
         <name>Philippe</name>
     </author>
     <id>https://pber31.github.io/New-Site</id>
 
+    <entry>
+        <title>Le blog de Super Tomate</title>
+        <author>
+            <name>Philippe</name>
+        </author>
+        <link href="https://pber31.github.io/New-Site/le-blog-de-super-tomate/"/>
+        <id>https://pber31.github.io/New-Site/le-blog-de-super-tomate/</id>
+        <media:content url="https://pber31.github.io/New-Site/media/posts/13/x1200-2025.02.03-rx100m6_2474.jpg" medium="image" />
+            <category term="Post"/>
+
+        <updated>2026-10-15T23:42:06+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://pber31.github.io/New-Site/media/posts/13/x1200-2025.02.03-rx100m6_2474.jpg" alt="" />
+                    Le blog d'un pote pour les amoureux de montagne. C'est du costaud! http://sbaus.free.fr/blog/
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://pber31.github.io/New-Site/media/posts/13/x1200-2025.02.03-rx100m6_2474.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Le blog d'un pote pour les amoureux de montagne. C'est du costaud!</p>
+<p><a href="http://sbaus.free.fr/blog/" target="_blank" rel="noopener noreferrer">http://sbaus.free.fr/blog/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lisbonne 2023 - Le journal d&#x27;Elise</title>
         <author>
@@ -16,6 +41,7 @@
         </author>
         <link href="https://pber31.github.io/New-Site/lisbonne-2023-le-journal-delise/"/>
         <id>https://pber31.github.io/New-Site/lisbonne-2023-le-journal-delise/</id>
+            <category term="Post"/>
 
         <updated>2026-10-15T22:58:03+02:00</updated>
             <summary type="html">
