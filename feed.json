@@ -5,7 +5,6 @@
     "home_page_url": "https://pber31.github.io/New-Site",
     "feed_url": "https://pber31.github.io/New-Site/feed.json",
     "user_comment": "",
-    "icon": "https://pber31.github.io/New-Site/media/website/armoiries-richaud.jpg",
     "author": {
         "name": "Philippe"
     },
@@ -15,7 +14,7 @@
             "url": "https://pber31.github.io/New-Site/le-blog-de-super-tomate/",
             "title": "Le blog de Super Tomate",
             "summary": "Le blog d'un pote pour les amoureux de montagne. C'est du costaud! http://sbaus.free.fr/blog/",
-            "content_html": "<p>Le blog d'un pote pour les amoureux de montagne. C'est du costaud!</p>\n<p><a href=\"http://sbaus.free.fr/blog/\" target=\"_blank\" rel=\"noopener noreferrer\">http://sbaus.free.fr/blog/</a></p>",
+            "content_html": "<p>Le blog d'un pote pour les amoureux de montagne. C'est du costaud!</p>\n<p><a href=\"http://sbaus.free.fr/blog/\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">http://sbaus.free.fr/blog/</a></p>",
             "image": "https://pber31.github.io/New-Site/media/posts/13/x1200-2025.02.03-rx100m6_2474.jpg",
             "author": {
                 "name": "Philippe"
